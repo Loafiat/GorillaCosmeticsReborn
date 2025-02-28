@@ -13,3 +13,5 @@ Planned Features:
 Done so far:
 - Fur, hat, pants, face, and badge cosmetic types.
 - Custom Wardrobe.
+
+### [Project](https://github.com/Loafiat/GorillaCosmeticsReborn-Project/)
