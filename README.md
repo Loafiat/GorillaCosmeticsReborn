@@ -8,6 +8,7 @@ Planned Features:
 - Network support
 - Action Based animations.
 - [GorillaShirts](https://www.github.com/developer9998/GorillaShirts) integration
+- [BananaOS](https://github.com/HuskyGT/Banana-OS) server integration for cosmetic downloading and dynamic downloading of (WHITELISTED) cosmetics if you don't have them.
 - Custom implementation of EVERY cosmetic type in the game
 
 Done so far:
