@@ -31,8 +31,8 @@ namespace GorillaCosmeticsReborn
 
         void LoadCosmetics()
         {
-            foreach (string bundle in Directory.GetFiles(
-                         "X:\\OculusApps\\Software\\another-axiom-gorilla-tag\\BepInEx\\plugins\\GorillaCosmeticsReborn\\Cosmetics"))
+            string cosmeticsPath = Path.Join(Assembly.GetExecutingAssembly().Location.Replace("GorillaCosmeticsReborn.dll", ""), "Cosmetics");
+            foreach (string bundle in Directory.GetFiles(cosmeticsPath))
             {
                 try
                 {
